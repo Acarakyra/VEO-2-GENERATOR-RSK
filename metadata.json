@@ -1,0 +1,5 @@
+{
+  "name": "VEO-2 Video Generator",
+  "description": "Generate stunning videos from text prompts using Google's VEO-2 model. Choose your desired aspect ratio and bring your ideas to life.",
+  "requestFramePermissions": []
+}
